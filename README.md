@@ -3,6 +3,17 @@ This project demonstrate how a basic function can be linked to any html file wit
 
 You can install bootstrap by simple terminal command if NPM packagae is installed.
 
-        npm install bootstrap
+    npm install bootstrap
+    
+If NPM package is not installed then you can simply write:
+
+    npm install -g npm
+
+for version check and verifcation you can write:
+
+    npm -version
+or
+
+    npm -v
 
 The Specific function that is written is purposed to change a text through innerHTML function of document ( P.S. :HTML IS A DOC). It also shows how we can overwrite a already writte statement and and how we can add conjunction in it.
